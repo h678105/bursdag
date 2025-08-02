@@ -1,0 +1,23 @@
+{
+  "greeting": "Hei",
+  "name": "Mamma",
+  "greetingText": "Kanskje ein vanlig lørdag, men",
+  "wishText": "Håpe dagen blir nydelig ;)",
+  "imagePath": "img/mamma.png",
+  "text1": "Det er din bursdag :D",
+  "textInChatBox": "Gratulera med dagen til deg, håpa du får blah blah...",
+  "sendButtonLabel": "Send",
+  "text2": "Viss eg ikkje var heime e d det eg skulle gjer",
+  "text3": "Men så er eg jo heime, og du er mamma",
+  "text4": "Eg skjønte at eg ville lage noke",
+  "text4Adjective": "SPESIELT",
+  "text5Entry": "Fordi,",
+  "text5Content": "Du er spesiell",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "Å",
+  "wishHeading": "Gratulera Med Dagen!",
+  "outroText": "Håpa du likte den...",
+  "replayText": "Klikk viss du vil sjå igjen!",
+  "outroSmiley": ":)"
+}
